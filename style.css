@@ -64,8 +64,8 @@
 }
 
 .text {
-    position: absolute;
+    position: relative;
     text-align: center;
     top: 40%;
-    right: 50%;
+    right: 10%;
 }
